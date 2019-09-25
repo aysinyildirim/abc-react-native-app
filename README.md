@@ -1,1 +1,0 @@
-# abc-react-native-app
